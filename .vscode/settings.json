@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.experimental.cloudChanges.autoStore": "onShutdown"
+}
